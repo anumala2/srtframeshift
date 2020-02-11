@@ -4,7 +4,7 @@ description     :A program made to "frameshift" an .srt file's subtitles by a gi
 author          :Aadithya Anumala
 date            :02/05/2020
 version         :0.5
-usage           :python srtframeshift.py
+usage           :python3 srtframeshift.py
 notes           :
 python_version  :3.7.6 
 """
